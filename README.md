@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- Wave animado con nombre -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Josias+%F0%9F%91%8B;Software+Engineer+%2B+AI;Construyendo+soluciones+reales)](https://git.io/typing-svg)
+<!-- Banner Matrix style -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00FF41&height=200&section=header&text=Josias&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=50&desc=Ingeniería%20de%20Software%20%2B%20IA%20|%20SENATI&descAlignY=68&descAlign=50&descColor=00FF41" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Josias&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniería%20de%20Software%20%2B%20IA%20|%20SENATI&descAlignY=60&descAlign=50" width="100%"/>
+<!-- Typing Matrix verde -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=_%3E+Inicializando+sistema...;_%3E+Cargando+habilidades...;_%3E+IA+%2B+Software+Engineer;_%3E+Bienvenido+a+mi+perfil+%5B+OK+%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,6 +78,6 @@ josias = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00FF41&height=100&section=footer" width="100%"/>
 
 </div>
