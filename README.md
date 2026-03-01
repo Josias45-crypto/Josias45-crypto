@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003311,100:00FF41&height=220&section=header&text=Josias&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=48&desc=AI%20Engineer%20in%20Training&descAlignY=68&descAlign=50&descColor=00CC33&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:0a1628,100:0066FF&height=220&section=header&text=Josias&fontSize=80&fontColor=4DA6FF&animation=fadeIn&fontAlignY=48&desc=AI%20Engineer%20in%20Training&descAlignY=68&descAlign=50&descColor=7EC8FF&descSize=22" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=_%3E+Inicializando+modelo...+%5B+OK+%5D;_%3E+Cargando+pesos+neuronales...;_%3E+Entrenando+en+ML+%2B+Deep+Learning;_%3E+Objetivo%3A+modelos+que+resuelven+problemas+reales;_%3E+Estado%3A+en+formacion+%2F+construyendo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=4DA6FF&background=00000000&center=true&vCenter=true&width=620&lines=_%3E+Inicializando+modelo...+%5B+OK+%5D;_%3E+Cargando+pesos+neuronales...;_%3E+Entrenando+en+ML+%2B+Deep+Learning;_%3E+Objetivo%3A+modelos+que+resuelven+problemas+reales;_%3E+Estado%3A+en+formacion+%2F+construyendo)](https://git.io/typing-svg)
 
 </div>
 
@@ -58,11 +58,11 @@ josias = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Josias45-crypto&show_icons=true&theme=tokyonight&hide_border=true&locale=es&title_color=00FF41&icon_color=00CC33&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Josias45-crypto&show_icons=true&theme=tokyonight&hide_border=true&locale=es&title_color=4DA6FF&icon_color=7EC8FF&text_color=ffffff&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josias45-crypto&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d1117)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josias45-crypto&layout=compact&theme=tokyonight&hide_border=true&title_color=4DA6FF&text_color=ffffff&bg_color=0d1117)
 
-![Streak](https://streak-stats.demolab.com/?user=Josias45-crypto&theme=tokyonight&hide_border=true&ring=00FF41&fire=00CC33&currStreakLabel=00FF41)
+![Streak](https://streak-stats.demolab.com/?user=Josias45-crypto&theme=tokyonight&hide_border=true&ring=4DA6FF&fire=0066FF&currStreakLabel=4DA6FF)
 
 </div>
 
@@ -72,6 +72,7 @@ josias = {
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-josias-rojas-alca-260145268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joeljosias45@gmail.com)
 
 </div>
@@ -79,5 +80,5 @@ josias = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003311,100:00FF41&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0066FF,50:0a1628,100:000000&height=120&section=footer" width="100%"/>
 </div>
